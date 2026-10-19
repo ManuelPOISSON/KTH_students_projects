@@ -1,3 +1,5 @@
+# From Write-up to Weapon-Map: Automatically Building Attack Models from Bug Bounties, CTFs, and Incident Reports
+
 
 ## Context
 
@@ -23,5 +25,7 @@ Different way can be explored depending on students skills and interests.
 - Reproducing the environment described in the report to actually execute the attack and get a real attack trace (purple arrow on the figure)
 
 
-
+---
 <a href="mailto:poisson@kth.se?subject=Degree Project">poisson@kth.se</a>   
+
+[More project proposals](../README.md)
