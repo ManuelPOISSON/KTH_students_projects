@@ -26,6 +26,7 @@ Different way can be explored depending on students skills and interests.
 
 
 ---
-<a href="mailto:poisson@kth.se?subject=Degree Project">poisson@kth.se</a>   
-
 [More project proposals](../README.md)
+To apply, send me your CV and few sentences about why you are interested in this project.
+
+poisson[аt]κth[ⅾot]se

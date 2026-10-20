@@ -21,5 +21,7 @@ Depending on students skills and interests this can involve:
 
 ---
 [More project proposals](../README.md)
+To apply send me your CV and few sentences about why you are interested in this project.
 
+poisson[аt]κth[ⅾot]se
 
